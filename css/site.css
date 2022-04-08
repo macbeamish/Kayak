@@ -1,6 +1,6 @@
 :root{
-    --primary-color:#387237;
-    --secondary-color:#CB232C;
+    --primary-color:#FC861D;
+    --secondary-color:#2E5AFF;
     --dark-color:#292929;
     --white-color:#e7e7e7;
 }
@@ -8,7 +8,7 @@ body{
     color:var(--dark-color)
 }
 h1,h2,h3,h4,h5,h6 {
-    color: var(--primary-color);
+    color: var(--secondary-color);
 }
 main>.container {
     padding: 60px 15px 0;
