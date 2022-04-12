@@ -45,7 +45,7 @@ footer .social>a:hover{
 }
 
 .cssicon{
-    color:(11,82,214);
+    color:rgb(9, 115, 237);
 }
 .checklist >li i{
     color: var(--primary-color);
